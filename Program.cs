@@ -6,11 +6,12 @@ namespace lineComparisonProblem
     {
         static void Main(string[] args)
         {
+
             //Welcome message 
             Console.WriteLine("Welcome to Line Comparison Computation!");
 
             //Taking four sets of variables are used to check equality of the two lines
-            int x1, x2,x3,x4,y1,y2,y3,y4;
+            int x1, x2, x3, x4, y1, y2, y3, y4;
             
             // Taking the coordinates for first point of line one
             Console.WriteLine("Enter the values of x1 and y1 coordinates of the line one");
@@ -52,5 +53,7 @@ namespace lineComparisonProblem
                 Console.WriteLine("Length of the two lines are not equal.");
 
         }
+
     }
+
 }
