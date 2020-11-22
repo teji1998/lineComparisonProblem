@@ -46,11 +46,17 @@ namespace lineComparisonProblem
             double lengthOfLineTwo = Math.Sqrt(Math.Pow(x4 - x3, 2) + Math.Pow(y4 - y3, 2));
             Console.WriteLine("Length of the line two is : " + lengthOfLineTwo);
 
-            //Using if loop to check if lines are equal or not
-            if (lengthOfLineOne.Equals(lengthOfLineTwo))
+            //CompareTo method is used to compare instance of length of line by returning value of instance
+            //to be greater than,lesser than or equal
+            int differenceInLength = lengthOfLineOne.CompareTo(lengthOfLineTwo);
+
+            //Using if loop to check if the two lines are equal ,smaller than or greater than in length
+            if (differenceInLength == 0)
                 Console.WriteLine("Length of the two lines are equal.");
+            else if (differenceInLength > 0)
+                Console.WriteLine("Length of line one is greater than length of line two");
             else
-                Console.WriteLine("Length of the two lines are not equal.");
+                Console.WriteLine("Length of line two is greater than length of line one");
 
         }
 
