@@ -1,0 +1,13 @@
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\bin\Debug\netcoreapp3.1\lineComparisonProblem.exe
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\bin\Debug\netcoreapp3.1\lineComparisonProblem.deps.json
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\bin\Debug\netcoreapp3.1\lineComparisonProblem.runtimeconfig.json
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\bin\Debug\netcoreapp3.1\lineComparisonProblem.runtimeconfig.dev.json
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\bin\Debug\netcoreapp3.1\lineComparisonProblem.dll
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\bin\Debug\netcoreapp3.1\lineComparisonProblem.pdb
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\obj\Debug\netcoreapp3.1\lineComparisonProblem.csprojAssemblyReference.cache
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\obj\Debug\netcoreapp3.1\lineComparisonProblem.AssemblyInfoInputs.cache
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\obj\Debug\netcoreapp3.1\lineComparisonProblem.AssemblyInfo.cs
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\obj\Debug\netcoreapp3.1\lineComparisonProblem.csproj.CoreCompileInputs.cache
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\obj\Debug\netcoreapp3.1\lineComparisonProblem.dll
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\obj\Debug\netcoreapp3.1\lineComparisonProblem.pdb
+C:\Users\PRITHVIL5\source\repos\lineComparisonProblem\lineComparisonProblem\obj\Debug\netcoreapp3.1\lineComparisonProblem.genruntimeconfig.cache
