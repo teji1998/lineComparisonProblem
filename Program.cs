@@ -20,7 +20,7 @@ namespace lineComparisonProblem
            double xCoordinate = EndPointsDistance();
            double yCoordinate = EndPointsDistance();
            double lengthOfLine = Math.Sqrt(xCoordinate + yCoordinate);
-            return lengthOfLine;
+            return Math.Round(lengthOfLine, 2);
         }
 
         //Method to compare the lengths of the two lines
